@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Projects\\Autosaloon\\Autosaloon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5331A9B7-F388-452D-82E9-CAC4C6B34A48}|Autosaloon\\Autosaloon.csproj|c:\\projects\\projects\\autosaloon\\autosaloon\\autosaloon\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5331A9B7-F388-452D-82E9-CAC4C6B34A48}|Autosaloon\\Autosaloon.csproj|solutionrelative:autosaloon\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5331A9B7-F388-452D-82E9-CAC4C6B34A48}|Autosaloon\\Autosaloon.csproj|C:\\Projects\\Projects\\Autosaloon\\Autosaloon\\autosaloon\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5331A9B7-F388-452D-82E9-CAC4C6B34A48}|Autosaloon\\Autosaloon.csproj|solutionrelative:autosaloon\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5331A9B7-F388-452D-82E9-CAC4C6B34A48}|Autosaloon\\Autosaloon.csproj|C:\\Projects\\Projects\\Autosaloon\\Autosaloon\\autosaloon\\automobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5331A9B7-F388-452D-82E9-CAC4C6B34A48}|Autosaloon\\Autosaloon.csproj|solutionrelative:autosaloon\\automobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 229,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Automobile.cs",
+              "DocumentMoniker": "C:\\Projects\\Projects\\Autosaloon\\Autosaloon\\Autosaloon\\Automobile.cs",
+              "RelativeDocumentMoniker": "Autosaloon\\Automobile.cs",
+              "ToolTip": "C:\\Projects\\Projects\\Autosaloon\\Autosaloon\\Autosaloon\\Automobile.cs",
+              "RelativeToolTip": "Autosaloon\\Automobile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T16:42:07.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Projects\\Projects\\Autosaloon\\Autosaloon\\Autosaloon\\Form1.cs",
+              "RelativeDocumentMoniker": "Autosaloon\\Form1.cs",
+              "ToolTip": "C:\\Projects\\Projects\\Autosaloon\\Autosaloon\\Autosaloon\\Form1.cs",
+              "RelativeToolTip": "Autosaloon\\Form1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T16:41:42.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Projects\\Projects\\Autosaloon\\Autosaloon\\Autosaloon\\Form1.cs",
+              "RelativeDocumentMoniker": "Autosaloon\\Form1.cs",
+              "ToolTip": "C:\\Projects\\Projects\\Autosaloon\\Autosaloon\\Autosaloon\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Autosaloon\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T16:40:17.6Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
